@@ -1,0 +1,10 @@
+Debug/*
+googleKicksa/Debug/*
+*.vcxproj
+*.filters
+*.in
+*.txt
+*.sln
+*.sdf
+*.swp
+
